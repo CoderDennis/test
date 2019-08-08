@@ -4,3 +4,5 @@ elm-stuff/
 docs/
 *.html
 /documentation.json
+.idea/
+package-lock.json
